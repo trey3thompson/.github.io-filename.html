@@ -13,5 +13,6 @@ text-align: center;
      <h1>
     St Thomas Information
     </h1>
+    
   </body>
 </html>
